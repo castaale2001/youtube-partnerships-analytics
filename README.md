@@ -98,7 +98,7 @@ El flujo de scripts T-SQL en `/sql` está estructurado de manera secuencial para
 
 ## 4. Lógica de Negocio: Detección de Anomalías
 
-Para auditar acuerdos comerciales y alianzas estratégicas (Partnerships), se normalizó la tasa de conversión comunitaria calculando el número de interacciones relativas por cada 1.000 reproducciones[cite: 4]:
+Para auditar acuerdos comerciales y alianzas estratégicas (Partnerships), se normalizó la tasa de conversión comunitaria calculando el número de interacciones relativas por cada 1.000 reproducciones:
 
 $$\text{Engagement x 1K} = \frac{(\text{Likes} + \text{Comentarios}) \times 1000}{\text{Vistas}}$$
 
